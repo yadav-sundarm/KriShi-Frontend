@@ -9,19 +9,19 @@ const founders = [
     bio: "MBA student.",
   },
   {
-    name: "Meera Nair",
+    name: "Mudra Tapse",
     role: "Co-founder",
     image: "/static/founder2.jpg",
     bio: "MBA student.",
   },
   {
-    name: "Ravi Verma",
+    name: "Sanika Desai",
     role: "Co-founder",
     image: "/static/founder3.jpg",
     bio: "MBA student.",
   },
   {
-    name: "Divya Joshi",
+    name: "Lucky Patil",
     role: "Co-founder",
     image: "/static/founder4.jpg",
     bio: "MBA student.",
