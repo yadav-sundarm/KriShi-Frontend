@@ -8,7 +8,7 @@ const products = [
     price: "₹53,000",
     image: "/static/domeimg.jpg",
     description:
-      "A solar-powered foldable dome that protects 1 acre of crops from heat, rain, and hail. Integrated with ai for amart control",
+      "A solar-powered foldable dome that protects 1 acre of crops from heat, rain, and hail. Integrated with Ai for Smart control",
   },
   {
     id: 2,
